@@ -1,2 +1,4 @@
 Nama: Hanipah
 jurusan: Teknik informatika
+fakultas: Ilmu komputer
+Universitas banten jaya
